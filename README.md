@@ -24,7 +24,7 @@ Create a static build in `dist/`
 npm run build
 ```
 
-Start the static side
+Start the static site
 ```bash
 npm run host
 ```
